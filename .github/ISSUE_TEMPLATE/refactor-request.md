@@ -7,6 +7,10 @@ assignees: acorn497
 
 ---
 
+---
+name: Refactor Request
+---
+
 ## 개요
 > 리팩토링이 필요한 대상과 이유를 간략히 작성해주세요.
 

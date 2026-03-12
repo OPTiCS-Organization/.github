@@ -7,6 +7,10 @@ assignees: acorn497
 
 ---
 
+---
+name: Feature Request
+---
+
 ## 개요
 > 추가하려는 기능을 간략히 작성해주세요.
 

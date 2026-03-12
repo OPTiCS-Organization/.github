@@ -7,6 +7,10 @@ assignees: acorn497
 
 ---
 
+---
+name: Bug Report
+---
+
 ## 개요
 > 어떤 버그인지 자세히 작성해주세요.
 
