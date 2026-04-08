@@ -35,22 +35,22 @@ if installation successfully finished, you can access dashboard via http://local
 > Note: Dashboard is only accessible when you access from local. any access from external service(and etc) will ignored from Agent Client due to Security.
 
 ## Sign In
-You must have existing and verificated Hub account.
-You can just sign up or sign in from [here](https://consoleoptics.vercel.app).
+- You must have existing and verificated Hub account.
+- You can just sign up or sign in from [here](https://consoleoptics.vercel.app).
 
 ## Register Agent
-You can register new Agent from Workspaces/Agent page.
-Enter Agent Dashboard, Check displaying connection code from landing page.
-Enter connection code from Hub Console, Workspaces/Agent page.
-If connection code is valid and not expired, connection request will sent to Agent. You can check request from Agent Dashboard.
-Click Accept Request.
-Now it's done!
+1. You can register new Agent from Workspaces/Agent page.
+2. Enter Agent Dashboard, Check displaying connection code from landing page.
+3. Enter connection code from Hub Console, Workspaces/Agent page.
+4. If connection code is valid and not expired, connection request will sent to Agent. You can check request from Agent Dashboard.
+5. Click Accept Request.
+6. Now it's done!
 
 ## Deploy Service
 > Note: Currently OPTiCS doesn't support any framework. so you will need to write dockerfile/compose in your repository.
-Move to Hub Console, Workspaces/Service page.
-Click Deploy New Service Button.
-Enter Service Information.
-Hit Deploy Button.
+1. Move to Hub Console, Workspaces/Service page.
+2. Click Deploy New Service Button.
+3. Enter Service Information.
+4. Hit Deploy Button.
 
 You can check log via click service.
